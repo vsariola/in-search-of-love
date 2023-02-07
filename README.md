@@ -4,6 +4,8 @@ This repository contains the unpacked source for the TIC-80 512b intro
 "In search of love", made by pestis / brainlez Coders! and released at
 Lovebyte 2023 512b compo.
 
+Capture: https://youtu.be/4m8IF7nwCa0
+
 Source: https://github.com/vsariola/in-search-of-love
 
 Tested with TIC-80 1.0.2164 pro. Packed with
